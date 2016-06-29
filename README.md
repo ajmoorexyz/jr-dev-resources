@@ -9,6 +9,12 @@ Resources that improve the velocity of Jr Front-End Developers
 * [Webpack](http://exploringjs.com/)
 * [SurviveJS](http://survivejs.com/webpack_react/introduction/)
 
+## Testing
+* [TDJS](http://www.letscodejavascript.com/)
+* [Getting started with KOANS](https://www.youtube.com/watch?v=ofOT8n2Vn-k)
+* [JAVASCRIPT TESTING RECIPES](https://jstesting.jcoglan.com/)
+* [Chrome Dev Tools](https://developer.chrome.com/devtools)
+
 ## Learning Flexbox
 * [Flexbox Froggy](http://flexboxfroggy.com/)
 
